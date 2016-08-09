@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Menu xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" SupportedProduct="|ArvindTest" SupportedVersion="|V1.0|">
+  <Item text="ArvindTest Framework" url="ArvindTest-framework/ArvindTest-framework" SEODescription="Learn how the ArvindTest Framework provides a modern developer experience for extending ArvindTest">
+    <Item text="ArvindTest client-side web parts" url="ArvindTest-framework/ArvindTest-client-side-web-parts/ArvindTest-client-side-web-parts" SEODescription="Learn how to develop ArvindTest client-side web parts to provide a better customized experience for ArvindTest">
+    </Item>
+  </Item>
+</Menu>
