@@ -11,6 +11,8 @@ The following command capabilities are currently supported.
 - Menus - Contain multiple buttons that trigger actions.
 - 
 
+![Quarterly Sales Report Add-in](../../images/QuarterlySalesReport_report.PNG)
+
 ## Supported platforms
 To be added 
 
